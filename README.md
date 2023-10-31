@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Teknasyon](https://teknasyon.com/en/)
 
-- 🌱 I’m currently learning about **Graphs Neural Networks**
+- 🌱 I’m currently learning about **Large Language Models**
 
 - 👯 I’m looking to collaborate on [Dyslexic Readability Package](https://github.com/AkinGunduz/dyslexic_readability_index)
 
